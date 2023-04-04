@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajesh Kannan</h1>
-<h3 align="center">I'm an aspiring data scientist. On my GitHub account, you'll find projects showcasing my skills in data visualization, exploratory data analysis, machine learning algorithms, and predictive modeling.</h3>
+<h3 align="center">I'm an aspiring data scientist. 
+On my GitHub account, you'll find projects showcasing my skills in data visualization, exploratory data analysis, machine learning algorithms, and predictive modeling.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4948736-UI-Developer/attachments/10687954?mode=media">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-chaitanyaa&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-chaitanyaa" /> </p>
 
