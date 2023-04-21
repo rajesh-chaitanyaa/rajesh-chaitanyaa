@@ -22,7 +22,7 @@ On my GitHub account, you'll find projects showcasing my skills in data visualiz
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1foDqHnAUXbF4nKzlbAostq-jB8D16Etv](https://drive.google.com/drive/u/1/folders/1foDqHnAUXbF4nKzlbAostq-jB8D16Etv)
 
-- ⚡ Fun fact **I am a fitness freak and a party hard guy. Will give you solutions of your problems 😝**
+- ⚡ Fun fact **I am a fitness freak and a party hard guy. Will give you solutions for your problems 😝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
